@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitedWayInterface", "UnitedWayInterface\UnitedWayInterface.csproj", "{98D0EF84-5158-4105-9FE0-A111EA512413}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data_Layer", "..\Data_Layer\Data_Layer.csproj", "{B09E2D71-E5AA-4090-A0E2-1B2F75377B96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98D0EF84-5158-4105-9FE0-A111EA512413}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98D0EF84-5158-4105-9FE0-A111EA512413}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98D0EF84-5158-4105-9FE0-A111EA512413}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98D0EF84-5158-4105-9FE0-A111EA512413}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B09E2D71-E5AA-4090-A0E2-1B2F75377B96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B09E2D71-E5AA-4090-A0E2-1B2F75377B96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B09E2D71-E5AA-4090-A0E2-1B2F75377B96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B09E2D71-E5AA-4090-A0E2-1B2F75377B96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7453A390-ED62-4F9E-8323-0CE8457CD324}
+	EndGlobalSection
+EndGlobal
